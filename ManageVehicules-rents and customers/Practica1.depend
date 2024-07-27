@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1713597086 source:d:\jgonzalezoria\workspace\grado_ingenieria_informatica\uhu\estr_datos_i\curso_2324\practica1\main.cpp
+	<iostream>
+	<locale.h>
+	<windows.h>
+	"Menus.h"
+	"GestorClientes.h"
+	"GestorAlquiler.h"
+	"GestorVehiculos.h"
+
+1713609309 source:d:\jgonzalezoria\workspace\grado_ingenieria_informatica\uhu\estr_datos_i\curso_2324\practica1\src\gestorvehiculos.cpp
+	"GestorVehiculos.h"
+
+1713215859 d:\jgonzalezoria\workspace\grado_ingenieria_informatica\uhu\estr_datos_i\curso_2324\practica1\include\gestorvehiculos.h
+	"Comun.h"
+
+1710179833 d:\jgonzalezoria\workspace\grado_ingenieria_informatica\uhu\estr_datos_i\curso_2324\practica1\include\comun.h
+	<string.h>
+	<fstream>
+	<iostream>
+
+1713279327 source:d:\jgonzalezoria\workspace\grado_ingenieria_informatica\uhu\estr_datos_i\curso_2324\practica1\src\comun.cpp
+	"Comun.h"
+
+1713646981 source:d:\jgonzalezoria\workspace\grado_ingenieria_informatica\uhu\estr_datos_i\curso_2324\practica1\src\gestoralquiler.cpp
+	"GestorAlquiler.h"
+
+1713279495 d:\jgonzalezoria\workspace\grado_ingenieria_informatica\uhu\estr_datos_i\curso_2324\practica1\include\gestoralquiler.h
+	"Comun.h"
+
+1713635541 source:d:\jgonzalezoria\workspace\grado_ingenieria_informatica\uhu\estr_datos_i\curso_2324\practica1\src\gestorclientes.cpp
+	"GestorClientes.h"
+	"Menus.h"
+	<cstdlib>
+	<cstdio>
+	<stdlib.h>
+
+1711672366 d:\jgonzalezoria\workspace\grado_ingenieria_informatica\uhu\estr_datos_i\curso_2324\practica1\include\gestorclientes.h
+	"Comun.h"
+
+1713647288 source:d:\jgonzalezoria\workspace\grado_ingenieria_informatica\uhu\estr_datos_i\curso_2324\practica1\src\menus.cpp
+	"Menus.h"
+	"Comun.h"
+	"GestorClientes.h"
+	"GestorAlquiler.h"
+	"GestorVehiculos.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1713628490 d:\jgonzalezoria\workspace\grado_ingenieria_informatica\uhu\estr_datos_i\curso_2324\practica1\include\menus.h
+	<windows.h>
+	"Comun.h"
+	"GestorClientes.h"
+	"GestorAlquiler.h"
+	"GestorVehiculos.h"
+
+1713597086 source:f:\uni\1º año\2ºcuatri\ed\2º matricula\practica1final\practica1final\main.cpp
+	<iostream>
+	<locale.h>
+	<windows.h>
+	"Menus.h"
+	"GestorClientes.h"
+	"GestorAlquiler.h"
+	"GestorVehiculos.h"
+
+1713628490 f:\uni\1º año\2ºcuatri\ed\2º matricula\practica1final\practica1final\include\menus.h
+	<windows.h>
+	"Comun.h"
+	"GestorClientes.h"
+	"GestorAlquiler.h"
+	"GestorVehiculos.h"
+
+1710179833 f:\uni\1º año\2ºcuatri\ed\2º matricula\practica1final\practica1final\include\comun.h
+	<string.h>
+	<fstream>
+	<iostream>
+
+1711672366 f:\uni\1º año\2ºcuatri\ed\2º matricula\practica1final\practica1final\include\gestorclientes.h
+	"Comun.h"
+
+1713279495 f:\uni\1º año\2ºcuatri\ed\2º matricula\practica1final\practica1final\include\gestoralquiler.h
+	"Comun.h"
+
+1713215859 f:\uni\1º año\2ºcuatri\ed\2º matricula\practica1final\practica1final\include\gestorvehiculos.h
+	"Comun.h"
+
+1713279327 source:f:\uni\1º año\2ºcuatri\ed\2º matricula\practica1final\practica1final\src\comun.cpp
+	"Comun.h"
+
+1713646981 source:f:\uni\1º año\2ºcuatri\ed\2º matricula\practica1final\practica1final\src\gestoralquiler.cpp
+	"GestorAlquiler.h"
+
+1713635541 source:f:\uni\1º año\2ºcuatri\ed\2º matricula\practica1final\practica1final\src\gestorclientes.cpp
+	"GestorClientes.h"
+	"Menus.h"
+	<cstdlib>
+	<cstdio>
+	<stdlib.h>
+
+1713609309 source:f:\uni\1º año\2ºcuatri\ed\2º matricula\practica1final\practica1final\src\gestorvehiculos.cpp
+	"GestorVehiculos.h"
+
+1713648482 source:f:\uni\1º año\2ºcuatri\ed\2º matricula\practica1final\practica1final\src\menus.cpp
+	"Menus.h"
+	"Comun.h"
+	"GestorClientes.h"
+	"GestorAlquiler.h"
+	"GestorVehiculos.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1713597086 source:f:\uni\1º año\2ºcuatri\ed\2º matricula\p1\practica1final\practica1final\main.cpp
+	<iostream>
+	<locale.h>
+	<windows.h>
+	"Menus.h"
+	"GestorClientes.h"
+	"GestorAlquiler.h"
+	"GestorVehiculos.h"
+
+1713628490 f:\uni\1º año\2ºcuatri\ed\2º matricula\p1\practica1final\practica1final\include\menus.h
+	<windows.h>
+	"Comun.h"
+	"GestorClientes.h"
+	"GestorAlquiler.h"
+	"GestorVehiculos.h"
+
+1710179833 f:\uni\1º año\2ºcuatri\ed\2º matricula\p1\practica1final\practica1final\include\comun.h
+	<string.h>
+	<fstream>
+	<iostream>
+
+1711672366 f:\uni\1º año\2ºcuatri\ed\2º matricula\p1\practica1final\practica1final\include\gestorclientes.h
+	"Comun.h"
+
+1713279495 f:\uni\1º año\2ºcuatri\ed\2º matricula\p1\practica1final\practica1final\include\gestoralquiler.h
+	"Comun.h"
+
+1713215859 f:\uni\1º año\2ºcuatri\ed\2º matricula\p1\practica1final\practica1final\include\gestorvehiculos.h
+	"Comun.h"
+
+1713279327 source:f:\uni\1º año\2ºcuatri\ed\2º matricula\p1\practica1final\practica1final\src\comun.cpp
+	"Comun.h"
+
+1713646981 source:f:\uni\1º año\2ºcuatri\ed\2º matricula\p1\practica1final\practica1final\src\gestoralquiler.cpp
+	"GestorAlquiler.h"
+
+1713635541 source:f:\uni\1º año\2ºcuatri\ed\2º matricula\p1\practica1final\practica1final\src\gestorclientes.cpp
+	"GestorClientes.h"
+	"Menus.h"
+	<cstdlib>
+	<cstdio>
+	<stdlib.h>
+
+1713609309 source:f:\uni\1º año\2ºcuatri\ed\2º matricula\p1\practica1final\practica1final\src\gestorvehiculos.cpp
+	"GestorVehiculos.h"
+
+1713648482 source:f:\uni\1º año\2ºcuatri\ed\2º matricula\p1\practica1final\practica1final\src\menus.cpp
+	"Menus.h"
+	"Comun.h"
+	"GestorClientes.h"
+	"GestorAlquiler.h"
+	"GestorVehiculos.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
